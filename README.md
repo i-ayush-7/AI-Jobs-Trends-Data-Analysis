@@ -5,7 +5,7 @@
 ## 📊 Project Overview
 This project provides an in-depth analysis of the Artificial Intelligence job market. Using **Microsoft Power BI**, it visualizes key trends, demand for specific skills, salary distributions, and geographic hotspots for AI-related roles.
 
-![Dashboard]()
+![Dashboard](https://github.com/i-ayush-7/AI-Jobs-Trends-Data-Analysis/blob/main/AI%20DASHBOARD.png)
 
 The goal of this dashboard is to help job seekers, recruiters, and stakeholders understand the current landscape of the AI workforce.
 
