@@ -1,6 +1,6 @@
 # 🤖 AI Job Trends Analysis
 
-![AI]()
+![AI](https://github.com/i-ayush-7/AI-Jobs-Trends-Data-Analysis/blob/main/ICON.png)
 
 ## 📊 Project Overview
 This project provides an in-depth analysis of the Artificial Intelligence job market. Using **Microsoft Power BI**, it visualizes key trends, demand for specific skills, salary distributions, and geographic hotspots for AI-related roles.
