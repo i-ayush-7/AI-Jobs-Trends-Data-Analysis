@@ -9,8 +9,8 @@ This project provides an in-depth analysis of the Artificial Intelligence job ma
 
 The goal of this dashboard is to help job seekers, recruiters, and stakeholders understand the current landscape of the AI workforce.
 
-#### Power BI File [LINK](https://drive.google.com/file/d/19s8Ru9LLN7Whz35IT8fX5BAK0a4pIjtg/view?usp=drive_link)
-#### Background Animation [LINK](https://drive.google.com/file/d/129higPODk5nfueCvOQxYw00TXsQYVr-o/view?usp=drive_link)
+#### Power BI File: [LINK](https://drive.google.com/file/d/19s8Ru9LLN7Whz35IT8fX5BAK0a4pIjtg/view?usp=drive_link)
+#### Background Animation: [LINK](https://drive.google.com/file/d/129higPODk5nfueCvOQxYw00TXsQYVr-o/view?usp=drive_link)
 
 ## 🗝️ Key Features & Insights
 *(Note: These are suggested sections based on the file name. You can update them with your specific findings)*
